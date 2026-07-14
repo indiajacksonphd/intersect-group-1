@@ -1,6 +1,6 @@
 # INTERSECT Bootcamp - Practice Repository
 
-This repository is for use by participants in the INTERSECT Bootcamp series.
+This repository is for use by participants in the [INTERSECT](https://intersect-training.org/) Bootcamp series.
 The dates so far have been:
 
 | Event | Dates | Location |
