@@ -1,5 +1,5 @@
 ---
-name: Design Discussion
+name: Design Discussion 2
 about: Discuss the project design
 title: ''
 labels: ''
